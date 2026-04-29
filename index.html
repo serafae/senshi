@@ -17,12 +17,35 @@
     <style type="text/css">
       
 body {
-  background:#f5f5f5 url(https://64.media.tumblr.com/9a8166e8089d86eaa6c1112411c106a0/32232e3b9faa2709-bb/s2048x3072/00ce85b778b37e36b9271e2ff6406c216751c05d.pnj) repeat-x fixed;
+  background: #fdf6fa;
   font-family: lato, calibri, Verdana, Arial, Helvetica, sans-serif;
   font-size: 9px;
   text-shadow: 0px 0px 1px #bbb;
   color:#777;
-  letter-spacing: 1px;}
+  letter-spacing: 1px;
+  position: relative;
+  z-index: 0;
+}
+
+/* bottom layer */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("https://github.com/serafae/senshi/blob/main/assets/images/backgrounds/faint-pink-glitter_(slow).gif?raw=true") center / cover no-repeat;
+  z-index: -2;
+  pointer-events: none;
+}
+
+/* top overlay */
+body::after {
+  content: "";
+  position: fixed;
+  inset: 0;
+  background: url("https://raw.githubusercontent.com/serafae/senshi/refs/heads/main/assets/images/backgrounds/bodyhotpinkgradient.png") repeat-x fixed;
+  z-index: -1;
+  pointer-events: none;
+}
 
       
 
