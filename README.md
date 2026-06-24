@@ -9,9 +9,9 @@ This GitHub Pages project is a <i>Sailor Moon</i> fan-based project meant to ref
 No side characters will be included due to regional constraints.
 Because platform access and regulations can change, I'm keeping the project focused and archiving it on GitHub, so the original work won't be lost.
 
-<blockquote cite="">
 <b><i>Serafae's Senshi</i></b> will be imported and exported to GitHub to <b>100%</b> by completion.
 
+<blockquote cite="">
 <b>Disclaimer:</b>
 <i>Sailor Moon</i> and related intellectual property belong to Naoko Takeuchi and their respective copyright and trademark holders.
 
