@@ -19,7 +19,7 @@ Because platform access and regulations can change, I'm keeping the project focu
 <br/>
 No ownership of the <i>Sailor Moon</i> franchise or its characters is claimed.
   <br><br/>
-The original code, custom programming, modifications, styling adjustments, and project-specific creative work created for Serafae's Senshi belong to the project creator and are licensed under the repository's chosen license.
+The original code, custom programming, modifications, styling adjustments, and project-specific creative work created for <i>Serafae's Senshi</i> belong to the project creator and are licensed under the repository's chosen license.
 <br><br/>
 Any third-party assets, references, or materials remain the property of their respective creators and are used according to applicable permissions or licenses.
 </blockquote>
