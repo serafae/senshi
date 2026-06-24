@@ -1,6 +1,6 @@
 <center><h1><i><b>Serafae's Senshi</b></i></h1></center>
 
-This project is only recreational and serves as a fun, exciting coding practice.
+The following project is only recreational and serves as a fun, exciting coding practice.
 
 The purpose of this project was <i>never</i> meant for role-playing purposes; rather, it was meant to showcase intentional, stylistic design & layout manipluation on SpaceHey.
 
