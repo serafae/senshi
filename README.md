@@ -5,4 +5,4 @@ This GitHub Pages project is a <i>Sailor Moon</i> fan-based project meant to ref
 No side characters will be included due to regional constraints.
 
 <b><i>Serafae's Senshi</i></b> will be imported and exported to GitHub to 100% by completion.
-Each item will be organized accordingly.
+Each asset will be organized accordingly.
