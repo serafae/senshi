@@ -11,7 +11,8 @@ Because platform access and regulations can change, I'm keeping the project focu
 
 <b><i>Serafae's Senshi</i></b> will be imported and exported to GitHub to <b>100%</b> by completion.
 
-
+<br>
+<br/>
 
 <blockquote cite="">
 <b>Disclaimer:</b>
