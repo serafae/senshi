@@ -16,8 +16,6 @@ Because platform access and regulations can change, I'm keeping the project focu
 <b>Disclaimer:</b>
 <i>Sailor Moon</i> and related intellectual property belong to Naoko Takeuchi and their respective copyright & trademark holders.
 
-<i>Serafae's Senshi</i> is an unofficial, non-commercial fan project created for recreational coding, design practice, and archival purposes.
-
 <u>No ownership of the <i>Sailor Moon</i> franchise or its characters is claimed.</u>
 
 The original code, custom programming, modifications, styling adjustments, and project-specific creative work created for Serafae's Senshi belong to the project creator and are licensed under the repository's chosen license.
